@@ -25,7 +25,7 @@ legend{color:inherit;display:table;max-width:100%;padding:0;white-space:normal}t
 ::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}
 /* End extract */
 html,body{font-family:Verdana,sans-serif;font-size:15px;line-height:1.5}html{overflow-x:hidden}
-h1{font-size:36px}h2{font-size:30px}h3{font-size:20px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}
+h1{font-size:25px}h2{font-size:20px}h3{font-size:20px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}
 .w3-serif{font-family:serif}.w3-sans-serif{font-family:sans-serif}.w3-cursive{font-family:cursive}.w3-monospace{font-family:monospace}
 h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}.w3-wide{letter-spacing:4px}
 hr{border: 10px;border-top:1px solid #eee;margin:20px 0}
@@ -77,9 +77,7 @@ hr{border: 10px;border-top:1px solid #eee;margin:20px 0}
 
   span {
     background: white;
-    cursor: normal;
     display: inline-block;
-    outline: medium solid #00425E;
     padding: 1em 2em;
     margin: 1em 0,5em;
   }
